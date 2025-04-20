@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**areveles/areveles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my learning space!
 
-Here are some ideas to get you started:
+This GitHub account is dedicated to my journey as a software engineer in training. You'll find:
+- 💻 Code from my university coursework
+- 🛠️ Practice projects and hands-on tutorials
+- 🧪 Experimental code while learning new tools and languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm Learning Right Now
+
+- Python, Java, and C++
+- Cloud computing with AWS (working on Solutions Architect Associate certification)
+- Building full-stack apps with Docker and MySQL
+- GitHub Foundations (working on certificate)
+- Linux Fundamentals
+
+---
+
+## Why a Separate Account?
+
+This account helps me keep my learning organized and open. It also lets me track how far I’ve come while experimenting freely with new technologies.
+
+For polished, production-ready projects and portfolio work, check out my personal GitHub:  
+👉 [@alex-reveles](https://github.com/alex-reveles)
+
+Thanks for stopping by!
